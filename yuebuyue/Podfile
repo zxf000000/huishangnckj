@@ -1,0 +1,18 @@
+target ‘youwuquan’ do
+
+platform :ios, '9.0'
+
+pod 'MBProgressHUD'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+pod 'pop'
+pod 'AFNetworking'
+
+pod 'MJRefresh'
+
+pod 'YYKit'
+
+pod 'Texture'
+
+end
+
